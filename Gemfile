@@ -9,6 +9,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'solidus'
+gem 'solidus_auth_devise'
 
 group :development, :test do
   gem 'byebug'
